@@ -1,1 +1,2 @@
 # odin-recipes
+I am in the process of creating my first HTML site using the OdinProject.  By the end of this, I want to be able to accurately use HTML to build out the foundation of a site and be able to identify/amend HTML code accordingly.
